@@ -1,0 +1,19 @@
+LinkedIn Profile URL
+*
+https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_profile_self-secondary_nav
+Brand Name
+*
+WebFusion
+Facebook Page URL 
+*
+https://www.facebook.com/people/WebFusion/61551986321468/
+Blog or Website URL
+*
+https://webfusio.blogspot.com/
+Email Newsletter Design - Blog Post URL
+*
+https://webfusio.blogspot.com/
+
+Google Analytics Measurement ID
+*
+https://webfusio.blogspot.com/
